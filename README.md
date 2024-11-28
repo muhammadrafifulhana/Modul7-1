@@ -1,8 +1,1 @@
-No 1
-Program berfungsi untuk menentukan posisi sebuah titik relatif terhadap dua lingkaran. Pengguna diminta untuk memasukkan koordinat pusat dan radius dari kedua lingkaran, serta koordinat titik yang ingin dianalisis. Program kemudian menghitung apakah titik tersebut berada di dalam lingkaran pertama, kedua, atau keduanya, dan menampilkan hasilnya. Ini berguna untuk aplikasi yang memerlukan analisis geometris dasar.
-No 2
-Program berfungsi untuk mengelola dan menganalisis array integer. Pengguna dapat memasukkan jumlah dan elemen array, kemudian program akan menampilkan elemen berdasarkan indeks ganjil dan genap, serta elemen pada indeks kelipatan tertentu. Selain itu, program memungkinkan pengguna untuk menghapus elemen berdasarkan indeks yang diberikan. Program ini juga menghitung dan menampilkan rata-rata, standar deviasi, dan frekuensi kemunculan elemen tertentu dalam array. Ini berguna untuk analisis data dasar.
-No 3
-Program ini berguna untuk yang mencatat hasil pertandingan antara dua klub sepak bola. Pengguna diminta untuk memasukkan nama kedua klub dan kemudian memasukkan skor untuk setiap pertandingan. Program akan terus menerima skor hingga pengguna memasukkan skor negatif, yang menandakan akhir pertandingan. Setelah itu, program menentukan pemenang untuk setiap pertandingan (atau "Draw" jika skor sama) dan menyimpan hasilnya. Akhirnya, program menampilkan semua hasil pertandingan yang telah dicatat. Ini berguna untuk mengelola dan menganalisis hasil pertandingan sepak bola secara sederhana.
-No 4
-Program ini berfungsi untuk mengelola karakter dalam sebuah array. Pengguna dapat memasukkan karakter hingga karakter titik (.) sebagai penanda akhir. Program kemudian mencetak isi array, membalik urutan karakter, dan memeriksa apakah urutan tersebut membentuk palindrom. Ini berguna untuk manipulasi string sederhana dan analisis palindrom.
+YOURE **HECKED** 
